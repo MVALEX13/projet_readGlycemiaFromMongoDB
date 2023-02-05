@@ -1,0 +1,4 @@
+test/
+virtual_env/
+__pycache__/
+glycemia.db
